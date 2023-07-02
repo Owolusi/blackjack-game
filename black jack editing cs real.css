@@ -1,0 +1,36 @@
+
+            #container{
+                display: flexbox;
+                justify-items: content;
+                align-items: content;
+                background-color: rgb(29, 96, 29);
+                width: 50%;
+                height:60vh;
+            }
+            h1,p{
+                text-align: center;
+                font-size: 25px;
+                color: white;
+            }
+            h1{
+                color: goldenrod;
+            }
+            button{
+                display:block;
+                margin-top: 5px;
+                margin-left: 50px;
+                text-align: center;
+                color: #016f32;
+                width: 150px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                font-weight: bold;
+                border: none;
+                margin-left: 50px;
+                border-radius: 2px;
+                background-color: goldenrod;
+            }
+
+
+
+            
